@@ -1,1 +1,2 @@
-# dcbCTF - DCB IGCSE Computer Science mini CTF challenges
+# dcbCTF
+DCB IGCSE Computer Science mini CTF challenges #1 - digital images
